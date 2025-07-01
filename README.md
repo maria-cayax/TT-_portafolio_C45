@@ -9,6 +9,9 @@ Añadimos los fundamentos tales como:
 - Listas anidadas
 
 ## Sprint 2 Python II
+- Bucles for while
+- Condicionales if/else/elif
+- Try/Except
 
 
 ## Sprint 3 Data Wragling I
