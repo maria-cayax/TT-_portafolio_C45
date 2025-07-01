@@ -9,10 +9,12 @@ Añadimos los fundamentos tales como:
 - Listas anidadas
 
 ## Sprint 2 Python II
+Aprendimos sobre bucles, condicionales y otros manejos avanzados como:
 - Bucles for while
 - Condicionales if/else/elif
 - Try/Except
 
+ 
 
 ## Sprint 3 Data Wragling I
 
