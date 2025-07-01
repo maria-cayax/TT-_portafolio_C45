@@ -3,7 +3,10 @@ Portafolio que contiene los distintos proyectos en el bootcamp de data de Triple
 
 
 ## Sprint 1 Python I
-
+Añadimos los fundamentos tales como:
+-Tipo de datos
+-Listas
+- Listas anidadas
 
 ## Sprint 2 Python II
 
