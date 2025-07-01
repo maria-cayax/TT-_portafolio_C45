@@ -9,7 +9,7 @@ Añadimos los fundamentos tales como:
 - Listas anidadas
 
 ## Sprint 2 Python II
-
+Aprendimos sobre bucles, condicionales y otros manejos avanzados como: 
 
 ## Sprint 3 Data Wragling I
 
